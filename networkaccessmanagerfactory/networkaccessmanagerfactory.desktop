@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=networkaccessmanagerfactory
+Exec=networkaccessmanagerfactory
+Icon=networkaccessmanagerfactory/networkaccessmanagerfactory.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

@@ -1,0 +1,17 @@
+{
+    "name": "networkaccessmanagerfactory.liu-xiao-guo",
+    "description": "description of networkaccessmanagerfactory",
+    "architecture": "@CLICK_ARCH@",
+    "title": "networkaccessmanagerfactory",
+    "hooks": {
+        "networkaccessmanagerfactory": {
+            "apparmor": "networkaccessmanagerfactory/networkaccessmanagerfactory.apparmor",
+            "desktop":  "networkaccessmanagerfactory/networkaccessmanagerfactory.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
